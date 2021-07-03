@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2021-07-03T14:47:28.813+05:30
-  initializedAtString: 2021-07-03T14:27:17.275+05:30
+  lastUpdatedAtString: 2021-07-03T15:51:45.890+05:30
+  initializedAtString: 2021-07-03T15:51:45.890+05:30
   currentGitRemote:
     name: origin
     url: https://github.com/perceus32/Flappie.git
@@ -24,14 +24,14 @@ MonoBehaviour:
     function: 0
     token: 
   currentGitBranch:
-    name: master
-    tracking: 
+    name: main
+    tracking: origin/main
   currentConfigBranch:
-    name: master
+    name: main
     remote:
-      name: 
-      url: 
-    trackingBranch: 
+      name: origin
+      url: https://github.com/perceus32/Flappie.git
+    trackingBranch: main
   currentConfigRemote:
     name: origin
     url: https://github.com/perceus32/Flappie.git

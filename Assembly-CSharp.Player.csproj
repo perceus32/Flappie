@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{EA39ED2A-4652-92B7-6336-8307800B25DC}</ProjectGuid>
+    <ProjectGuid>{013DA8D2-68E7-CDC5-A749-5E95838038EE}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -653,47 +653,47 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.InternalAPIEngineBridge.001.csproj">
-      <Project>{1102D29D-030C-6DC8-7D9C-B0EF046D301D}</Project>
+      <Project>{61656E95-19C7-942F-A02D-2BE26FF35EA1}</Project>
       <Name>Unity.InternalAPIEngineBridge.001</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.2D.PixelPerfect.csproj">
-      <Project>{5E44CCFC-493F-F8E4-DDC0-84755A9F33E7}</Project>
+      <Project>{9B79994D-F333-F3BA-AD07-F220919A768E}</Project>
       <Name>Unity.2D.PixelPerfect</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Timeline.csproj">
-      <Project>{3EB5B571-CF2C-46FC-41D8-E3AE93EE529A}</Project>
+      <Project>{0FF1DF05-0CCA-B99E-6329-D151126C6570}</Project>
       <Name>Unity.Timeline</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.TextMeshPro.csproj">
-      <Project>{CEC4CD52-3E1B-77F4-56F0-9377B7830E0E}</Project>
+      <Project>{B6AD10D6-A9F2-8B1F-B012-3DF9FDE53AEE}</Project>
       <Name>Unity.TextMeshPro</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.csproj">
-      <Project>{AE8481AF-EBE8-8097-FAFE-67BFF55F0A12}</Project>
+      <Project>{C3E0D18B-ADFA-EC74-FA4F-B8EADE10D2EE}</Project>
       <Name>UnityEngine.UI</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Mathematics.csproj">
-      <Project>{B4A77DB2-05AE-E496-81AA-F35E68BC81D2}</Project>
+      <Project>{BBAE23FB-9793-A7AC-567C-2DBC390AC442}</Project>
       <Name>Unity.Mathematics</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.2D.IK.Runtime.csproj">
-      <Project>{43F43F2F-F8CA-7951-2DAB-56BD2A2DBB09}</Project>
+      <Project>{E68FAAFD-B574-8549-FE98-A21D5E7CFDBE}</Project>
       <Name>Unity.2D.IK.Runtime</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.2D.Animation.Triangle.Runtime.csproj">
-      <Project>{22EB1CCB-42A8-93B8-F679-D397600D611E}</Project>
+      <Project>{07114E5D-C9A1-0300-2D4B-E6CECAED2F17}</Project>
       <Name>Unity.2D.Animation.Triangle.Runtime</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.2D.Animation.Runtime.csproj">
-      <Project>{9810066E-A1CA-54FB-6059-671305E7DE0B}</Project>
+      <Project>{F527725D-2E61-BCED-0ECE-7F4E2CB96265}</Project>
       <Name>Unity.2D.Animation.Runtime</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.2D.Common.Runtime.csproj">
-      <Project>{258B0ABF-4352-C307-60AB-7F6676454DEE}</Project>
+      <Project>{8481235C-9A62-D05A-9ABF-FF73E5A424E8}</Project>
       <Name>Unity.2D.Common.Runtime</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.2D.SpriteShape.Runtime.csproj">
-      <Project>{1D359E08-FA58-D8DA-1C50-26921970F2EB}</Project>
+      <Project>{9C1EC2CE-7FD6-E8E1-B48E-E4CDB78DC07D}</Project>
       <Name>Unity.2D.SpriteShape.Runtime</Name>
     </ProjectReference>
   </ItemGroup>

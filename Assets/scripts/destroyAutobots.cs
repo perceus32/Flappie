@@ -6,15 +6,17 @@ public class destroyAutobots : MonoBehaviour
 {
     private float xUpper;
     private float xLower = -15f;
+    public GameObject child; 
 
     void Start()
     {
         
     }
     void Update() {
-        if (gameObject.transform.position.x < xLower)
+        child = this.transform.GetChild(0).gameObject;
+        if (child.transform.position.x < xLower)
         {
-            Destroy(gameObject);
+            Destroy(child);
         }
             }
 }
